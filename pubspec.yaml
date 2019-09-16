@@ -14,7 +14,7 @@ dependencies:
   #git依赖
   flutter_xebaseui:
     git:
-      url: git://talkcheap.xiaoeknow.com/ios/component/flutter_xebaseui
+      url: git://github.com/haovbvb/test_flutter_package
 
 dev_dependencies:
   flutter_test:
