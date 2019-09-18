@@ -15,6 +15,9 @@ dependencies:
   flutter_xebaseui:
     git:
       url: git://github.com/haovbvb/test_flutter_package
+      
+  #  flutter_boost 与原生交互
+  flutter_boost: ^0.1.52
 
 dev_dependencies:
   flutter_test:
